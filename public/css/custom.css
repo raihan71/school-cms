@@ -1,0 +1,7 @@
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre-line;
+    width: 100px;
+    height: 100px;
+}
